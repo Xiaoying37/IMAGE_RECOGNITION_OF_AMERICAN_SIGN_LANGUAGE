@@ -7,4 +7,4 @@ In this dataset, there are 10 classes, with each of them represents the gesture 
 Split dataset into test and train groups.
 
 ## Models
-Implement models including Fully Connected Structures, Convolutional Neural Networks (CNNs), and Transfer Learning models such as VGG-16, ResNet50, and Inception V3.
+Implement models including Fully Connected Structures, Convolutional Neural Networks (CNNs), and Transfer Learning models, such as VGG-16, ResNet50, and Inception V3.
